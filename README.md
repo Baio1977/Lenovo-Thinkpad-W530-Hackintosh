@@ -10,9 +10,9 @@
 | ---------------- | ---------------------------------- |
 | CPU              | I7 3520M                           |
 | iGPU             | Intel® Graphics HD 4000            |
-| Display          | 1366x768                           |
+| Display          | 1920x1080p                         |
 | Audio            | Realtek ALC269                     |
-| Ram              | 8Gb ddr3 1067 Mhz                  |
+| Ram              | 16Gb ddr3 1067 Mhz                 |
 | SSD              | Kingston A400 512gb                |
 | SmBios           | MacbookPro 10.2                    |
 | BootLoader       | OpenCore 0.6.4                     |
