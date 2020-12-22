@@ -11,7 +11,7 @@
 | CPU              | I7 3520M                           |
 | iGPU             | Intel® Graphics HD 4000            |
 | Display          | 1366x768                           |
-| Audio            | Realtek ALC270                     |
+| Audio            | Realtek ALC269                     |
 | Ram              | 8Gb ddr3 1067 Mhz                  |
 | SSD              | Kingston A400 512gb                |
 | SmBios           | MacbookPro 10.2                    |
