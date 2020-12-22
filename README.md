@@ -22,7 +22,7 @@ Wifi, miniDisplay
 
 ## DPCIManager Screenshot
 
-![infodp1](./Screenshot/3.png)
+![infodp1](./Screenshot/3.jpg)
 ![infodp2](./Screenshot/4.png)
 
 
