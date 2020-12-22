@@ -1,5 +1,9 @@
 # Lenovo-Thinkpad-W530-Hackintosh
 
+![descrizione](./Screenshot/1.jpg)
+
+![descrizione](./Screenshot/2.jpg)
+
 # Computer Spec:
 
 | Component        | Brank                              |
