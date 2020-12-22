@@ -26,7 +26,7 @@ Wifi, miniDisplay
 ![infodp2](./Screenshot/4.png)
 
 ## PCI Device
-![infodp1](./Screenshot/5.jpg)
+![infodp1](./Screenshot/5.png)
 
 - [Acidanthera](https://github.com/acidanthera) for OpenCore and all the lovely hackintosh work.
 - [Apple](https://apple.com) for macOS;
